@@ -1,0 +1,16 @@
+# Big or third-party originals stay on the machine that downloaded them.
+# data/SOURCES.md records where each came from and its checksum.
+data/sources/
+data/extracted/
+data/plans/*
+!data/plans/README.md
+reference-images/*
+!reference-images/README.md
+!reference-images/IMAGE-LOG.csv
+
+# Blender / OS / Python
+*.blend1
+*.blend2
+renders/
+__pycache__/
+.DS_Store
