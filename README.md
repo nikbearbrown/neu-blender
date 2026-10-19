@@ -22,4 +22,4 @@
 Every number in a model has a source, and anything estimated (floor heights, footprints scaled from a drawing) is marked as estimated. Numbers from 2012 or from a 2013 proposal are not the built building.
 
 ## Rights
-Images and drawings belong to their owners (Northeastern University, Payette, photographers). This repository holds our tables, scripts and models, not their files. Licence for our own work: not yet chosen.
+Images and drawings belong to their owners (Northeastern University, Payette, photographers). This repository holds our tables, scripts and models, not their files. Code (`scripts/`) is MIT-licensed, see `LICENSE`. The licence for the Blender models and our data tables is still to be decided; until then, all rights reserved on those.

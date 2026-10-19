@@ -26,5 +26,5 @@
 | Photos by building | Northeastern digital collections (Bear can log in) | Facade reference |
 
 ## Open decisions
-- Licence for code and models.
+- Licence for models and data tables (code is MIT).
 - Whether to publish models, or only data and scripts, given the rights on source material.
