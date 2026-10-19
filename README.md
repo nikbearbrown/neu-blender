@@ -16,6 +16,7 @@
 | `buildings/` | One folder per building with its notes, measurements and status. Start at `buildings/README.md`. |
 | `blender/` | Blender scenes and the scripts that generate them. |
 | `scripts/` | Data-processing scripts. |
+| `docs/` | `CAPTURE-GUIDE.md`: how volunteers photograph a building with the GoPro. |
 | `ROADMAP.md` | The plan, in order. |
 
 ## Honesty rule
